@@ -4,7 +4,7 @@ Lesson 1 Homeworks
 
 #Variables
 
-name = "Jahongir "
+name = "Nasiba "
 age = str(16)
 total = name + age
 print(total)
@@ -19,7 +19,7 @@ print(fruits)
 
 #Tuples
 
-months = ('yanvar', 'mart', 'oktyabr', 'noyabr', 'dekabr', 'iyun')
+months = ('yanvar', 'mart', 'oktyabr', 'noyabr', 'dekabr', 'iyul')
 print(months [3])
 #months[5] = 'iyul' { Tuple is unchangeablemethod type :) }
 
@@ -34,9 +34,9 @@ print(color)
 #Dictionary
 
 dictionary = {
-    'name': 'Jahongir',
-    'age': 16,
-    'city': 'Karshi'
+    'name': 'Nasiba',
+    'age': 15,
+    'city': 'Tashkent'
 }
 print(dictionary['age'])
 dictionary['faoliyati'] = 'talaba'
